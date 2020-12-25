@@ -1,0 +1,43 @@
+body{
+ background-color: #B7C7C4;
+}
+
+.heading {
+    text-align: center;
+}
+
+#features {
+    padding: 3% 5%;
+  }
+  
+  .feature-box {
+    text-align: center;
+    padding: 5%;
+  }
+
+  .city-image {
+    width: 100%;
+    height: 300px;
+    /* background-image: url('HatchfulExport-All/lucknow.jpg'); */
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* border: 2px solid #e9385a; */
+  }
+
+  .card {
+      margin: 3%;
+  }
+
+  .card-body {
+      background-color:#727F9E;
+      color: #ebe0dd;
+  }
+
+  .city-row {
+      margin: 5% 0;
+  }
+
+.city-name {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+}
